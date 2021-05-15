@@ -1,0 +1,17 @@
+body button{
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: blue;
+}
+body{
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-size: 14px;
+}
+resetButton{
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: blue;
+
+}
+
